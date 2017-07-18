@@ -1,0 +1,11 @@
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\bin\Debug\MyRealm.Utilities.HtmlTools.dll
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\bin\Debug\MyRealm.Utilities.HtmlTools.pdb
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\bin\Debug\MyRealm.Utilities.Common.dll
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\bin\Debug\Newtonsoft.Json.dll
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\bin\Debug\MyRealm.Utilities.Common.pdb
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\bin\Debug\Newtonsoft.Json.xml
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\obj\Debug\MyRealm.Utilities.HtmlTools.csprojResolveAssemblyReference.cache
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\obj\Debug\MyRealm.Utilities.HtmlTools.Properties.Resources.resources
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\obj\Debug\MyRealm.Utilities.HtmlTools.csproj.GenerateResource.Cache
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\obj\Debug\MyRealm.Utilities.HtmlTools.dll
+c:\users\nejimon.ravindran\documents\visual studio 2015\Projects\MyRealm.Utilities\MyRealm.Utilities.HtmlTools\obj\Debug\MyRealm.Utilities.HtmlTools.pdb
